@@ -17,6 +17,6 @@ Springboot 2.7.5
 
 - AWS S3에 file upload 구현
 
- Querydsl로 리스트 동적쿼리 구성
+- Querydsl로 리스트 동적쿼리 구성
 
 - Spring Data JPA 로 기본 쿼리 구성
